@@ -61,4 +61,24 @@ section h2 {
     margin: 5px 0;
     padding: 8px;
     border-radius: 5px;
+}
+
+/* Education Items */
+.edu-item {
+    background: #f1f1f1;
+    padding: 10px;
+    margin: 10px 0;
+    border-left: 4px solid #0077b6;
+    border-radius: 5px;
+}
+
+
+/* Footer */
+footer {
+    text-align: center;
+    border-top: 2px solid #ddd;
+    padding-top: 10px;
+    font-size: 14px;
+    color: #777;
+}
 
